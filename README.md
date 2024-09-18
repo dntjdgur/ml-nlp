@@ -1,9 +1,9 @@
 # Text Classification on Relevance - Natural Language Processing Model
 ## Project Purpose
 This project is to build a basic NLP model that can perform text classifications. Text classification models are best known by Chat-GPT4 or Llama, that performs the task of assigning a label or class to a given text. We've already conducted a classification analysis from NLP - Sentiment Analysis model, that determines whether the texts are indicating an emotionally distressed or eustressed nature by labeling each text to a given numerical indicator.
-Subject text classification model is to identify the relevance of the content to the given overall context, and determining whether each article of the dataset is **relevant** or **irrelevant**.
+This study is to create a Grammatical Error Correction model (GEC) that finds any grammatical errors in the sentences, transform them into a corrected format. 
 ## Data Source
-Data source was obtained from Kaggle, titled by [Text Classification on Economic Relevancy]((https://www.kaggle.com/code/heeraldedhia/text-classification-nlp))
+Data source was obtained from Kaggle, titled by [C4 200M Grammar Error Correction dataset](https://www.kaggle.com/datasets/dariocioni/c4200m)
 ## Descriptive Statistics
 Data is composed of 568,454 rows and 10 columns. Column "Text" contains the review texts, and "Score" contains the quantified scale of satisfaction from food, ranging from 1 through 5.
 ## Model Architecture
