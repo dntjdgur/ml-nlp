@@ -1,4 +1,4 @@
-# Text Classification on Relevance - Natural Language Processing Model
+# Grammar Correction - Natural Language Processing Model
 ## Project Purpose
 This project is to build a basic NLP model that can perform text classifications. Text classification models are best known by Chat-GPT4 or Llama, that performs the task of assigning a label or class to a given text. We've already conducted a classification analysis from NLP - Sentiment Analysis model, that determines whether the texts are indicating an emotionally distressed or eustressed nature by labeling each text to a given numerical indicator.
 This study is to create a Grammatical Error Correction model (GEC) that finds any grammatical errors in the sentences, transform them into a corrected format. 
